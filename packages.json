@@ -1,0 +1,26 @@
+[
+    {
+        "package": "babelgene",
+        "url": "https://github.com/igordot/babelgene"
+    },
+    {
+        "package": "clustermole",
+        "url": "https://github.com/igordot/clustermole"
+    },
+    {
+        "package": "msigdbr",
+        "url": "https://github.com/igordot/msigdbr"
+    },
+    {
+        "package": "phenomenalist",
+        "url": "https://github.com/igordot/phenomenalist"
+    },
+    {
+        "package": "scooter",
+        "url": "https://github.com/igordot/scooter"
+    },
+    {
+        "package": "varnisch",
+        "url": "https://github.com/igordot/varnisch"
+    }
+]

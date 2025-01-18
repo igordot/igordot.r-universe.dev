@@ -1,15 +1,22 @@
 [
     {
         "package": "babelgene",
-        "url": "https://github.com/igordot/babelgene"
+        "url": "https://github.com/igordot/babelgene",
+        "branch" : "*release"
     },
     {
         "package": "clustermole",
-        "url": "https://github.com/igordot/clustermole"
+        "url": "https://github.com/igordot/clustermole",
+        "branch" : "*release"
     },
     {
         "package": "msigdbr",
-        "url": "https://github.com/igordot/msigdbr"
+        "url": "https://github.com/igordot/msigdbr",
+        "branch" : "*release"
+    },
+    {
+        "package": "msigdbdf",
+        "url": "https://github.com/igordot/msigdbdf"
     },
     {
         "package": "phenomenalist",

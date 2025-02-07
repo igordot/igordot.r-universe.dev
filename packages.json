@@ -16,7 +16,8 @@
     },
     {
         "package": "msigdbdf",
-        "url": "https://github.com/igordot/msigdbdf"
+        "url": "https://github.com/igordot/msigdbdf",
+        "branch": "*release"
     },
     {
         "package": "phenomenalist",

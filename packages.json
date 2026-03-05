@@ -15,6 +15,11 @@
         "branch": "*release"
     },
     {
+        "package": "msigdbrdata",
+        "url": "https://github.com/igordot/msigdbrdata",
+        "branch": "*release"
+    },
+    {
         "package": "msigdbdf",
         "url": "https://github.com/igordot/msigdbdf",
         "branch": "*release"

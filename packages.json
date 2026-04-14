@@ -1,5 +1,9 @@
 [
     {
+        "package": "altmem",
+        "url": "https://github.com/igordot/altmem"
+    },
+    {
         "package": "babelgene",
         "url": "https://github.com/igordot/babelgene",
         "branch": "*release"

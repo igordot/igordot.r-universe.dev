@@ -14,6 +14,10 @@
         "branch": "*release"
     },
     {
+        "package": "copynumber",
+        "url": "https://github.com/igordot/copynumber"
+    },
+    {
         "package": "msigdbr",
         "url": "https://github.com/igordot/msigdbr",
         "branch": "*release"

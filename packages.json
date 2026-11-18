@@ -32,6 +32,10 @@
         "url": "https://github.com/igordot/phenomenalist"
     },
     {
+        "package": "rthologs",
+        "url": "https://github.com/igordot/rthologs"
+    },
+    {
         "package": "scooter",
         "url": "https://github.com/igordot/scooter"
     },
